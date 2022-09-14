@@ -1,1 +1,3 @@
-# Duque_M_HW1
+# Team Awesome
+
+All about team awesome.
